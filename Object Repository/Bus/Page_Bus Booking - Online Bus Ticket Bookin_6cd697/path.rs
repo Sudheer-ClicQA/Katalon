@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>19d4392c-8742-42e8-b8dc-401918906d02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>67036be5-6889-41a3-a494-7142e6788da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16 0c8.833.01 15.99 7.167 16 16 0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0zm-4.101 16.125a1.335 1.335 0 00-1.419.183l-4 3.333a1.334 1.334 0 000 2.05l4 3.333A1.334 1.334 0 0012.667 24v-1.667c0-.184.149-.333.333-.333h5a1.333 1.333 0 000-2.666h-5a.333.333 0 01-.333-.333v-1.667c0-.518-.299-.989-.768-1.208zM20.667 16c.312 0 .614-.11.853-.309l4-3.333a1.334 1.334 0 000-2.05l-4-3.333A1.335 1.335 0 0019.334 8v1.667a.333.333 0 01-.333.333h-5a1.333 1.333 0 000 2.666h5c.184 0 .333.149.333.333v1.667c0 .736.597 1.333 1.333 1.333z</value>
+      <webElementGuid>ea32529d-9c9e-4d8a-90cf-5d8be9c2aee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srpCardLayout&quot;)/div[@class=&quot;SearchWidgetstyles__SearchWidgetLayoutDiv-sc-1b6fbqt-0 cwkkCP&quot;]/div[@class=&quot;SearchWidgetstyles__SearchWidgetInnerLayoutDiv-sc-1b6fbqt-1 cfzFbt&quot;]/div[@class=&quot;SearchWidgetstyles__InnerWrapperDiv-sc-1b6fbqt-2 bZCcYV&quot;]/div[@class=&quot;SearchWidgetstyles__SourceDestinationOuterWrapperDiv-sc-1b6fbqt-3 jouMoa&quot;]/div[@class=&quot;SearchWidgetstyles__IconOuterWrapperDiv-sc-1b6fbqt-12 cgCpSm&quot;]/svg[@class=&quot;SwpIcon-sc-1qeavcj-0 jDpOGC&quot;]/path[1]</value>
+      <webElementGuid>05d140cb-1c4e-4d2e-8340-17947354b4aa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

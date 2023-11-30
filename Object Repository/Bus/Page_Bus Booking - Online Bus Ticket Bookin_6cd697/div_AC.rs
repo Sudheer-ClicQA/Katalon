@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AC</name>
+   <tag></tag>
+   <elementGuidId>e0243535-9383-4b16-9923-c731aff5ce51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.FiltersBlockstyles__BusTypeFilterTab-sc-v6hq3g-12.djZxHm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='srpCardLayout']/section/div/div/div/div/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc8ed430-4d18-4b6d-877b-4eff082f4b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FiltersBlockstyles__BusTypeFilterTab-sc-v6hq3g-12 djZxHm</value>
+      <webElementGuid>fb33236b-3336-42d6-8459-717ad1f47df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AC</value>
+      <webElementGuid>534ffc28-3244-407a-9ecf-68566426ec5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srpCardLayout&quot;)/section[@class=&quot;StoriesTestPagestyles__SearchBlockOuterWrapper-sc-11w9nsp-6 eLJizy&quot;]/div[@class=&quot;SrpMainBlockstyles__SrpcardLayoutDiv-sc-1jttj24-0 jwnhYD&quot;]/div[@class=&quot;SrpMainBlockstyles__SrpcardInnerLayoutDiv-sc-1jttj24-1 bolzYx&quot;]/div[@class=&quot;SrpLeftBlockstyles__SrpLeftBlockLayoutDiv-sc-yyrxg2-0 cyIFzW&quot;]/div[@class=&quot;FiltersBlockstyles__FiltersBlockLayoutDiv-sc-v6hq3g-2 fzifhO&quot;]/div[@class=&quot;FiltersBlockstyles__PopularBlockMainDiv-sc-v6hq3g-6 jfgoXB&quot;]/div[@class=&quot;FiltersBlockstyles__BusTypeFiltersWrap-sc-v6hq3g-11 faQIkU&quot;]/div[@class=&quot;FiltersBlockstyles__BusTypeFilterTab-sc-v6hq3g-12 djZxHm&quot;]</value>
+      <webElementGuid>d884920d-d3ea-4a19-a70c-ebc0f38c9093</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='srpCardLayout']/section/div/div/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>aabd4a68-f6ca-4e09-83a9-eb07524f31c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[2]/following::div[2]</value>
+      <webElementGuid>c3b42f00-d802-4afa-be36-7194044a7f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus Type'])[1]/following::div[2]</value>
+      <webElementGuid>45ad6c26-bf8d-41cd-9fd4-149f21c1b347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-AC'])[1]/preceding::div[1]</value>
+      <webElementGuid>14308542-f1a2-4bc7-8012-25b9147a966b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seater'])[1]/preceding::div[2]</value>
+      <webElementGuid>8197e84c-48be-4e50-9f24-8bdcd22d2073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AC']/parent::*</value>
+      <webElementGuid>e2f34650-9949-45e1-99b0-01277e289cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>0c101eaf-286c-4ae1-846f-4bda96409c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AC' or . = 'AC')]</value>
+      <webElementGuid>36f64e09-1ca8-4f3a-a211-e218c584e207</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

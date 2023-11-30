@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_UPDATE SEARCH</name>
+   <tag></tag>
+   <elementGuidId>50a084e6-e43d-447f-8541-20ee3f33d1b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Search_headerCmp__srchBtn__sxj4o.blackText2.rubikMedium.font18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d8f21fe-fec2-4692-8658-8a1cd4fb4ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Search_headerCmp__srchBtn__sxj4o blackText2 rubikMedium font18</value>
+      <webElementGuid>e2fe71aa-ad38-4ed7-be91-1fee83d5a1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UPDATE SEARCH</value>
+      <webElementGuid>9c41d06d-9b2c-4e05-9199-ad6cc47a3a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;undefined&quot;]/div[@class=&quot;drsp_lstngRvmpd__hdrWithCalWdWrp__VXVU9&quot;]/div[@class=&quot;Search_headerCmp__XGpF3&quot;]/div[@class=&quot;Search_headerCmp__main__TxKrk&quot;]/button[@class=&quot;Search_headerCmp__srchBtn__sxj4o blackText2 rubikMedium font18&quot;]</value>
+      <webElementGuid>11e3cd04-7c1f-4f11-98a0-0d529b7717ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/button</value>
+      <webElementGuid>50a150c0-7693-401f-8108-a94e3c128b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILTER BY'])[1]/preceding::button[1]</value>
+      <webElementGuid>1621544b-a6b8-45e4-a7f7-1ae8edb26839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick filters'])[1]/preceding::button[1]</value>
+      <webElementGuid>36a65ab0-7945-4461-a05c-f41d00602156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UPDATE SEARCH']/parent::*</value>
+      <webElementGuid>879ba563-77de-419d-81c0-7902ef5295ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4c8c792b-8ecc-4228-a048-27a5b2808925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'UPDATE SEARCH' or . = 'UPDATE SEARCH')]</value>
+      <webElementGuid>c4492abb-efc5-4bec-b10e-8f534b3ae86d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

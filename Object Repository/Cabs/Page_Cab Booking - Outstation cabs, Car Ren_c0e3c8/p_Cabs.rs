@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Cabs</name>
+   <tag></tag>
+   <elementGuidId>2309ee4b-b656-4121-a1b7-e8a2f42ab07a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.active > p.sc-AxirZ.jTqZXU</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/ul/li[4]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>74450a48-38e3-4796-a639-65c304c54f8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-AxirZ jTqZXU</value>
+      <webElementGuid>aa7392f3-d09f-4a2d-9e4f-f3388c4a3f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cabs</value>
+      <webElementGuid>2eed09c4-26b2-4189-b56a-dc9a8dbb4786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;happy-gi-header gi-special-theme-left header-sticky-nope&quot;]/ul[@class=&quot;happy-nav&quot;]/li[@class=&quot;active .&quot;]/a[@class=&quot;nav-link active&quot;]/p[@class=&quot;sc-AxirZ jTqZXU&quot;]</value>
+      <webElementGuid>b7215b39-311d-429c-98ba-539b645a48f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/ul/li[4]/a/p</value>
+      <webElementGuid>ea0277c3-4beb-48b1-beb5-2343e05c4238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why book Hourly Rental Cabs with us?'])[1]/preceding::p[20]</value>
+      <webElementGuid>dc5833ba-d283-4771-9564-2d4c58a4ff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='know more'])[1]/preceding::p[23]</value>
+      <webElementGuid>198a9cf6-57ce-409b-be5e-65d1a69375d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cabs']/parent::*</value>
+      <webElementGuid>0cd0ecfa-3a82-4ebc-9696-eb600d3bfa55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/p</value>
+      <webElementGuid>1911479d-5018-4fce-ab18-b04e88b195f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Cabs' or . = 'Cabs')]</value>
+      <webElementGuid>d19889df-1d0e-42c2-a56d-0217e2aba1af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

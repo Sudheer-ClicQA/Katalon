@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__header-sprite nav-icon-trains gr-appe_d457f1</name>
+   <tag></tag>
+   <elementGuidId>c7794f59-b214-44ae-ad08-a3cf2c7e5618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.header-sprite.nav-icon-trains.gr-append-right5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>edcb4bbc-2e42-4589-a6cb-ec977bb6d2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-sprite nav-icon-trains gr-append-right5</value>
+      <webElementGuid>b95be05f-ff73-4299-a1e1-f3df2545ce76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-xayxd-0 fkdZEP&quot;]/div[@class=&quot;sticky-gutter&quot;]/header[@class=&quot;happy-gi-header gi-special-theme-left header-sticky&quot;]/ul[@class=&quot;happy-nav&quot;]/li[@class=&quot;. .&quot;]/a[@class=&quot;nav-link .&quot;]/span[@class=&quot;header-sprite nav-icon-trains gr-append-right5&quot;]</value>
+      <webElementGuid>af73593f-e7e2-4542-9f4e-ec4c38618021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/ul/li[3]/a/span</value>
+      <webElementGuid>0bb3161f-9fb6-4f59-a5ca-37baf9543312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>fb67fe6d-c664-40bf-b4f3-21d713a6ed7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

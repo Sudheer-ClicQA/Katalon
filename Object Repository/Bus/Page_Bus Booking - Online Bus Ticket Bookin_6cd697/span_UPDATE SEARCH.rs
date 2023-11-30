@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_UPDATE SEARCH</name>
+   <tag></tag>
+   <elementGuidId>dbcfb0a3-731e-4e3d-9df0-5fb99e4a117c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.SearchWidgetstyles__PayTxtSpan-sc-1b6fbqt-7.fNIKby</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='srpCardLayout']/div/div/div/div[3]/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09ea5d9a-db9e-46f8-a8f0-94f16bfd759b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>searchBusBtnSRP</value>
+      <webElementGuid>5681781a-5261-4cc8-a30b-2a947a1bd585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchWidgetstyles__PayTxtSpan-sc-1b6fbqt-7 fNIKby</value>
+      <webElementGuid>e32f50aa-e153-4f50-aace-14e6935cae03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UPDATE SEARCH</value>
+      <webElementGuid>064df76f-7b38-4815-ae72-0131bd4910bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srpCardLayout&quot;)/div[@class=&quot;SearchWidgetstyles__SearchWidgetLayoutDiv-sc-1b6fbqt-0 cwkkCP&quot;]/div[@class=&quot;SearchWidgetstyles__SearchWidgetInnerLayoutDiv-sc-1b6fbqt-1 cfzFbt&quot;]/div[@class=&quot;SearchWidgetstyles__InnerWrapperDiv-sc-1b6fbqt-2 bZCcYV&quot;]/div[@class=&quot;SearchWidgetstyles__UpdateWrapperDiv-sc-1b6fbqt-5 lefzvF&quot;]/button[@class=&quot;Button__SecondaryButton-sc-110xfhu-2 gxlfvg&quot;]/div[@class=&quot;SearchWidgetstyles__PayBtnWrapDiv-sc-1b6fbqt-6 gInqlB&quot;]/span[@class=&quot;SearchWidgetstyles__PayTxtSpan-sc-1b6fbqt-7 fNIKby&quot;]</value>
+      <webElementGuid>c52264d1-55d2-4801-9c5f-71846c812966</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='srpCardLayout']/div/div/div/div[3]/button/div/span</value>
+      <webElementGuid>badc0615-bc17-455e-8a9a-0a3b91f0ea26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEPARTURE DATE'])[1]/following::span[1]</value>
+      <webElementGuid>960ac646-26ee-4d8e-b629-2ae8a0125dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TO'])[1]/following::span[1]</value>
+      <webElementGuid>77cd8752-6a6e-45df-adec-6d8f10a95c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::span[1]</value>
+      <webElementGuid>3f0d7262-2a29-4f23-b849-91588f2c33d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset All'])[1]/preceding::span[2]</value>
+      <webElementGuid>7a60a01d-e5b6-4561-b757-fb1d990a37a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UPDATE SEARCH']/parent::*</value>
+      <webElementGuid>7638d079-3d1b-498e-9ae0-fc0f0c358a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>f41bfddf-fd91-463b-b9fc-1548317e045f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'UPDATE SEARCH' or . = 'UPDATE SEARCH')]</value>
+      <webElementGuid>70489134-6ae6-43a6-a6a8-bdbd11530e6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buses with vaccination mandatoryTravel _110e7d</name>
+   <tag></tag>
+   <elementGuidId>aeb89744-83b8-491d-996d-85abe4e0e1d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.HomeCarouselstyles__RightSection-sc-9aji66-4.kuqDgR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/section/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>488105f4-5eb9-47e0-90af-b1df139c95d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>HomeCarouselstyles__RightSection-sc-9aji66-4 kuqDgR</value>
+      <webElementGuid>53e08fa7-4f0b-46fc-a8e3-272dd0d1762a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buses with vaccination mandatoryTravel on buses that mandate covid vaccination</value>
+      <webElementGuid>b63ba8e4-ea05-4990-9380-6b135b56d599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;HomePagestyles__HomePageWrapper-sc-1tll6im-0 gWuvFD&quot;]/section[@class=&quot;HomePagestyles__PageContentWrapper-sc-1tll6im-3 jdcZkN&quot;]/section[@class=&quot;HomePagestyles__SearchBlock-sc-1tll6im-5 iSjmmZ&quot;]/div[@class=&quot;HomePagestyles__OfferBlock-sc-1tll6im-6 eWWsNM&quot;]/div[@class=&quot;HomeCarouselstyles__CarouselContainer-sc-9aji66-0 fXDZhG&quot;]/div[@class=&quot;HomeCarouselstyles__CarouselCardContainer-sc-9aji66-1 bYrufl&quot;]/div[@class=&quot;HomeCarouselstyles__RightSection-sc-9aji66-4 kuqDgR&quot;]</value>
+      <webElementGuid>deffb9ba-f8ae-4fa8-810c-0f44804d55a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/section/div/div/div/div[2]</value>
+      <webElementGuid>7dbb678e-0875-43fd-81f9-4a59ed2f29ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bus'])[1]/following::div[5]</value>
+      <webElementGuid>33fffec7-e922-462d-b676-5d633c623b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Distancing'])[2]/following::div[6]</value>
+      <webElementGuid>f9ad16d8-06f7-4e5c-8a76-deba6407e21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>7c893611-d32d-4c66-b133-f09b7209e58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buses with vaccination mandatoryTravel on buses that mandate covid vaccination' or . = 'Buses with vaccination mandatoryTravel on buses that mandate covid vaccination')]</value>
+      <webElementGuid>a441eccc-2d02-4674-b92d-729b10f8b56e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

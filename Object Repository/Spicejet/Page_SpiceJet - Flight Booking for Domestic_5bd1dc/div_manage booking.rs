@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_manage booking</name>
+   <tag></tag>
+   <elementGuidId>ebfff4e3-a4dc-43d8-b6ce-e4d3da8cf987</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-76zvg2.r-jwli3a.r-ubezar.r-1ozqkpa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div[3]/div/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35c4388f-e35c-40f2-a819-36973fd0b266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-76zvg2 r-jwli3a r-ubezar r-1ozqkpa</value>
+      <webElementGuid>df8411f0-32f5-4a00-b2df-c4776faf8bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>677b2a92-dede-4edf-a6f4-2acdfe06f376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>manage booking</value>
+      <webElementGuid>78cfb1ec-df35-476a-96f5-33b40f2cbf06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1jgb5lz r-r0h9e2 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-z2wwpe r-vgw6uq r-oswwj1 r-1rngwi6 r-156q2ks r-11ict49 r-8uuktl r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1d09ksm r-qklmqi r-1lz4bg0 r-1phboty r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-184aecr r-notknq r-1loqt21 r-18u37iz r-779j7e r-1f1sjgu r-1otgn73&quot;]/div[@class=&quot;css-76zvg2 r-jwli3a r-ubezar r-1ozqkpa&quot;]</value>
+      <webElementGuid>bd8d8894-c930-47ea-9ebe-c290eaaeed2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div[3]/div/div[4]/div[2]</value>
+      <webElementGuid>7f6e9844-96be-4901-bdae-7202570a21ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='flight status'])[1]/following::div[3]</value>
+      <webElementGuid>b745848f-6477-4a3c-935e-94a2cc1c85c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check-in'])[1]/following::div[6]</value>
+      <webElementGuid>a2ae0042-f951-4ebb-b5bb-46f2a0ba9f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View / Manage Booking'])[1]/preceding::div[1]</value>
+      <webElementGuid>a059b493-8077-4960-9403-2e390d317e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View, Modify or Cancel your bookings'])[1]/preceding::div[2]</value>
+      <webElementGuid>d89e7fdb-e6b3-422b-a6e0-8082faefe391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='manage booking']/parent::*</value>
+      <webElementGuid>d1f04a23-0b96-498f-9103-05c6db132d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>ba40f695-5913-4c1d-a3bb-89826e1d22c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'manage booking' or . = 'manage booking')]</value>
+      <webElementGuid>ed27164f-2694-4ff2-ba24-f4bf8d8be833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

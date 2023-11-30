@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CLEAR ALL</name>
+   <tag></tag>
+   <elementGuidId>bae1dcfc-d3d5-4a11-899b-8536231b6337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Filters_clearAllTxt__vP3t1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[3]/div/div/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ea2283a-4170-4ec4-8ff7-95af3152942e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Filters_clearAllTxt__vP3t1</value>
+      <webElementGuid>de5fdcad-740f-44d0-818c-0c93504ae86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CLEAR ALL</value>
+      <webElementGuid>fde8def3-9d12-4e60-9ff1-d40fd6f88790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;undefined&quot;]/div[@class=&quot;drsp_lstngRvmpd__mainCnt__rO4SW&quot;]/div[@class=&quot;drsp_lstngRvmpd__secLeft__Cn2jN&quot;]/div[@class=&quot;Filters_App__Z5yQg Filters_ScrollStyle__5GeAr&quot;]/div[@class=&quot;Filters_filterContainer__5CX12&quot;]/div[@class=&quot;undefined&quot;]/div[@class=&quot;undefined&quot;]/div[@class=&quot;Filters_filterHead__9e92A&quot;]/span[@class=&quot;Filters_clearAllTxt__vP3t1&quot;]</value>
+      <webElementGuid>b9605cdc-e959-4f13-83a7-7040091a67e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[3]/div/div/div/div/div/div/span[2]</value>
+      <webElementGuid>19c2cbc4-05dc-4147-bf1b-0ca5d936b0bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick filters'])[1]/following::span[1]</value>
+      <webElementGuid>05e5132d-fddc-470c-a889-927658e9180d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILTER BY'])[1]/following::span[2]</value>
+      <webElementGuid>d658678a-10bc-4bea-bbe7-399c9f7e9410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show available only'])[1]/preceding::span[1]</value>
+      <webElementGuid>93f5c5de-6240-4638-81c6-63a530457d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show AC only'])[1]/preceding::span[2]</value>
+      <webElementGuid>313604ca-e4b7-4f2f-ae96-0d41ced7c9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CLEAR ALL']/parent::*</value>
+      <webElementGuid>0c6842a6-24f2-48b0-bf6d-b3781b06bb4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/span[2]</value>
+      <webElementGuid>de9874da-74e1-47f4-944c-a7e7c7a11827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CLEAR ALL' or . = 'CLEAR ALL')]</value>
+      <webElementGuid>e8b7c101-dfc9-46b1-b5b4-b7539b94d451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

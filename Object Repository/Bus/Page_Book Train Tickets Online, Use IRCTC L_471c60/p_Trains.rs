@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Trains</name>
+   <tag></tag>
+   <elementGuidId>8d297a9b-dbe2-4900-8a2f-7e055dad330a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.active > p.sc-gEvEer.BkcDM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/header/ul/li[3]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>63b21352-d91f-41a2-b776-0aa1f561ef1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gEvEer BkcDM</value>
+      <webElementGuid>96b093d4-d12e-4428-aaf5-6e598e9105db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trains</value>
+      <webElementGuid>5726e348-7b3c-46ac-9a3c-24b15f5502eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;sticky-gutter&quot;]/header[@class=&quot;happy-gi-header gi-special-theme-left header-sticky&quot;]/ul[@class=&quot;happy-nav&quot;]/li[@class=&quot;active .&quot;]/a[@class=&quot;nav-link active&quot;]/p[@class=&quot;sc-gEvEer BkcDM&quot;]</value>
+      <webElementGuid>6bdfda80-41c8-449c-91b3-7330ae0b1cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/ul/li[3]/a/p</value>
+      <webElementGuid>1010d982-3f06-4ae5-a9b2-ce8c246ddcbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Train Ticket Booking'])[1]/preceding::p[13]</value>
+      <webElementGuid>f4634f71-0449-405b-8825-c7b6795a7d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IRCTC Authorized Partner'])[1]/preceding::p[13]</value>
+      <webElementGuid>f72cd600-fdbe-47c6-b8bf-5cbc4453bf59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trains']/parent::*</value>
+      <webElementGuid>5e0e956f-ec91-4c64-a24a-ec6e855d57d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/p</value>
+      <webElementGuid>8981c488-6854-4503-9ed8-659eb2660b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Trains' or . = 'Trains')]</value>
+      <webElementGuid>d6fd9cd6-dfbb-44b1-a92a-9c9a2011ca4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

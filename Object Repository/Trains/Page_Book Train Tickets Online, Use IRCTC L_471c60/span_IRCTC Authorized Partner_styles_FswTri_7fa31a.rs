@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IRCTC Authorized Partner_styles_FswTri_7fa31a</name>
+   <tag></tag>
+   <elementGuidId>063b7e13-b13f-4914-829f-a81d181b1494</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_FswTripTypeItemRadio__Zy5tX.styles_FswTripTypeItemRadioSelected__OfKHq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[3]/div[2]/div/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a7a53b9-fd2a-4ffd-9dc3-4d0db84927a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_FswTripTypeItemRadio__Zy5tX styles_FswTripTypeItemRadioSelected__OfKHq</value>
+      <webElementGuid>216f2029-6247-4116-98ad-0eff6118df50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;home_homePge__bodyWrapperOuter__TQU2_&quot;]/div[@class=&quot;home_homePge__bodyWrapper__4MUbR&quot;]/div[@class=&quot;home_homePge__srchWdgtWrp__8fZBh&quot;]/div[@class=&quot;styles_FswContainer__CFh9B&quot;]/ul[@class=&quot;styles_TripTypeCont__NdHOs&quot;]/li[@class=&quot;styles_FswTripTypeItem__aPaXl styles_FswTripTypeItemSelected__5SNch&quot;]/span[@class=&quot;styles_FswTripTypeItemRadio__Zy5tX styles_FswTripTypeItemRadioSelected__OfKHq&quot;]</value>
+      <webElementGuid>18f64a02-3ac7-4abb-bbdb-946388d5c6a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[3]/div[2]/div/ul/li/span</value>
+      <webElementGuid>87e8e74f-b6b1-4989-9a51-f0519452b4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>745893ca-da7b-48fc-b780-f582fe2dfa7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

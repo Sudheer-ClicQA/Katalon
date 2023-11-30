@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sleeper</name>
+   <tag></tag>
+   <elementGuidId>5af4a6e2-55ae-4a61-8442-9b4737b55202</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='srpCardLayout']/section/div/div/div/div/div[3]/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a707fd07-3d68-4fc6-97d3-0f49e6db9117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FiltersBlockstyles__BusTypeFilterTab-sc-v6hq3g-12 djZxHm</value>
+      <webElementGuid>c7c1bd11-3a8f-44a5-9735-8f3a009d3abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sleeper</value>
+      <webElementGuid>87042cea-6b84-47e6-901e-72c043b673eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srpCardLayout&quot;)/section[@class=&quot;StoriesTestPagestyles__SearchBlockOuterWrapper-sc-11w9nsp-6 eLJizy&quot;]/div[@class=&quot;SrpMainBlockstyles__SrpcardLayoutDiv-sc-1jttj24-0 jwnhYD&quot;]/div[@class=&quot;SrpMainBlockstyles__SrpcardInnerLayoutDiv-sc-1jttj24-1 bolzYx&quot;]/div[@class=&quot;SrpLeftBlockstyles__SrpLeftBlockLayoutDiv-sc-yyrxg2-0 cyIFzW&quot;]/div[@class=&quot;FiltersBlockstyles__FiltersBlockLayoutDiv-sc-v6hq3g-2 fzifhO&quot;]/div[@class=&quot;FiltersBlockstyles__PopularBlockMainDiv-sc-v6hq3g-6 jfgoXB&quot;]/div[@class=&quot;FiltersBlockstyles__BusTypeFiltersWrap-sc-v6hq3g-11 faQIkU&quot;]/div[@class=&quot;FiltersBlockstyles__BusTypeFilterTab-sc-v6hq3g-12 djZxHm&quot;]</value>
+      <webElementGuid>850396e3-7ea1-4d19-ac06-86b83369dc51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='srpCardLayout']/section/div/div/div/div/div[3]/div[2]/div[4]</value>
+      <webElementGuid>bb102056-496d-4516-9ff0-0559afba74b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seater'])[1]/following::div[1]</value>
+      <webElementGuid>e6ae332b-9b3a-4534-952e-957993885ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-AC'])[1]/following::div[2]</value>
+      <webElementGuid>df23da83-4baa-44de-beaf-0fa2036dfea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departure Time'])[1]/preceding::div[1]</value>
+      <webElementGuid>722e6fdd-eb85-4207-8108-88121f3eb28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[3]/preceding::div[1]</value>
+      <webElementGuid>3683ae43-627d-4b33-8aee-64bcab5ec9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sleeper']/parent::*</value>
+      <webElementGuid>6ad9d08d-d40b-4933-9370-e72a7ce26555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[4]</value>
+      <webElementGuid>dc3df33d-1660-4644-8809-25633607fd1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sleeper' or . = 'Sleeper')]</value>
+      <webElementGuid>9a0d806f-588f-48c0-8feb-86868fa1f082</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View your profile</name>
+   <tag></tag>
+   <elementGuidId>f0dc75f7-cb42-49fc-9258-3edf9cc3ac40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.gr-view-profile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div[2]/div/ul/li/a/div/p[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1627cbda-03d7-4a99-b8db-332d60fc5ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gr-view-profile</value>
+      <webElementGuid>053e472d-a2c8-4754-856d-9ca7050a68c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View your profile</value>
+      <webElementGuid>6eac7250-1995-4822-afaa-7380d1753d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-xayxd-0 fkdZEP&quot;]/div[@class=&quot;sticky-gutter&quot;]/header[@class=&quot;happy-gi-header gi-special-theme-left header-sticky&quot;]/div[@class=&quot;gr-make-flex hrtl-center gr-push-right&quot;]/div[@class=&quot;login__tab gotrible&quot;]/ul[@class=&quot;login__dropdown gr-grey-text--dark&quot;]/li[1]/a[@class=&quot;login__dropdown__link_user&quot;]/div[@class=&quot;gr-flex-one gr-append-left8&quot;]/p[@class=&quot;sc-gEvEer kPKMkg&quot;]/span[@class=&quot;gr-view-profile&quot;]</value>
+      <webElementGuid>aadc76db-a3dc-4aa2-b891-53870dbe82ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div[2]/div/ul/li/a/div/p[2]/span</value>
+      <webElementGuid>10075e09-d7f4-4c7a-b6b6-f5e1fff61b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sudheer'])[1]/following::span[4]</value>
+      <webElementGuid>569095a4-0ddf-44f9-b255-48e39b72bd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hey'])[1]/following::span[5]</value>
+      <webElementGuid>51cb3cb9-d1b8-4f65-b1bc-12674134ac36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹0'])[1]/preceding::span[9]</value>
+      <webElementGuid>313b6588-dd10-4fea-8ce7-26f4224def53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domestic and International Flights'])[1]/preceding::span[11]</value>
+      <webElementGuid>ebeb47bb-d5df-4193-87b2-f01b476554c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View your profile']/parent::*</value>
+      <webElementGuid>cef4e53f-9d41-43ad-aad9-9c9df19c53f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/span</value>
+      <webElementGuid>ffd4af0f-8a70-4b59-8c62-557b1ec9bac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View your profile' or . = 'View your profile')]</value>
+      <webElementGuid>c5dd62ba-e265-481d-879a-14519b19c023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

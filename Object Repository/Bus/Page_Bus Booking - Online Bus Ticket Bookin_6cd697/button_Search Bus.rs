@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search Bus</name>
+   <tag></tag>
+   <elementGuidId>07781b61-676c-478d-a643-38563e2c8e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/section/section/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f5ea90a5-7b31-4889-88be-6eb78d533c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>searchBusBtn</value>
+      <webElementGuid>a1c698e0-78de-4609-ad92-78179638a230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search Bus</value>
+      <webElementGuid>573bd04c-280c-4d74-b4e8-4be1ccf5a81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;HomePagestyles__HomePageWrapper-sc-1tll6im-0 gWuvFD&quot;]/section[@class=&quot;HomePagestyles__PageContentWrapper-sc-1tll6im-3 jdcZkN&quot;]/section[@class=&quot;HomePagestyles__SearchBlock-sc-1tll6im-5 iSjmmZ&quot;]/section[@class=&quot;SearchWidgetstyles__SearchWidgetWrap-sc-1mr4hwz-0 QkrmG&quot;]/div[@class=&quot;SearchWidgetstyles__ButtonWrap-sc-1mr4hwz-7 bXLXuO&quot;]/button[1]</value>
+      <webElementGuid>b871253a-27c5-4299-82ec-5fb62a17fb72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/section/section/div[5]/button</value>
+      <webElementGuid>ce618805-2c08-4552-a876-5ee3848b40b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Distancing'])[2]/following::button[1]</value>
+      <webElementGuid>496eafa2-9edc-4daa-ae9b-9066f40d794c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search Bus']/parent::*</value>
+      <webElementGuid>7e2a84f8-aca6-4489-b385-35034cf21673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b1286b08-12f1-4407-992b-9271a54bfa98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Search Bus' or . = 'Search Bus')]</value>
+      <webElementGuid>bc2366f3-2e25-42bb-8f98-e0d061b743f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

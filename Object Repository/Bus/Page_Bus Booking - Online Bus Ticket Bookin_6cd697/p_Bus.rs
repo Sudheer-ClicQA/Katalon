@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Bus</name>
+   <tag></tag>
+   <elementGuidId>8f95c34a-3027-4ded-8fca-cb98b80afffd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.active > p.sc-bwzfXH.jIhWJf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/ul/li[5]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>83830e0c-cd8a-44ed-8250-02ea126da50b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bwzfXH jIhWJf</value>
+      <webElementGuid>b7b4e54c-4a1c-4c06-a171-a67dc72a5cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bus</value>
+      <webElementGuid>8e62e505-236d-45c4-9c4b-d95aaf648f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky-gutter&quot;]/header[@class=&quot;happy-gi-header gi-special-theme-left header-sticky&quot;]/ul[@class=&quot;happy-nav&quot;]/li[@class=&quot;active .&quot;]/a[@class=&quot;nav-link active&quot;]/p[@class=&quot;sc-bwzfXH jIhWJf&quot;]</value>
+      <webElementGuid>4c724bc2-dd55-40a2-9942-1663dd6f5620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/ul/li[5]/a/p</value>
+      <webElementGuid>b7f7beb5-3a56-49f2-a7f3-0a0484ab9e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus Ticket Booking'])[1]/preceding::p[11]</value>
+      <webElementGuid>aebb6d5b-9cee-4b62-8ac2-6528c592574d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FROM'])[1]/preceding::p[11]</value>
+      <webElementGuid>89fb4f28-2413-4394-8b8f-cb96955546f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bus']/parent::*</value>
+      <webElementGuid>72d3e592-c0e7-4cf9-a05f-ada7cec60fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/p</value>
+      <webElementGuid>b6e13e27-0222-4945-be2a-fe7971c31998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bus' or . = 'Bus')]</value>
+      <webElementGuid>172caab0-dc26-4a7a-80f5-b5c1d9b420c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

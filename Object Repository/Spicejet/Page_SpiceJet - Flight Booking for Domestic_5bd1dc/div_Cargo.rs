@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cargo</name>
+   <tag></tag>
+   <elementGuidId>92759f7a-f3b3-4f13-8582-c959afdb455b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(6) > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-le9fof > div.css-76zvg2.r-jwli3a.r-ubezar.r-16dba41.r-1pzd9i8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div[2]/div/div/div[2]/a[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e03e52c-8607-4341-8223-9a99d72ee59b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-76zvg2 r-jwli3a r-ubezar r-16dba41 r-1pzd9i8</value>
+      <webElementGuid>411d89a0-08d7-41bc-acdb-630abc3be760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2204e029-d1df-4ef1-a961-e66ae39826a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cargo</value>
+      <webElementGuid>cdc8b943-d3a5-4caf-a1c1-6f2de24e8839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1jgb5lz r-r0h9e2 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-184aecr r-18u37iz r-1777fci r-1w50u8q r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1kihuf0 r-18u37iz r-1wtj0ep r-dwc677 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-kgf08f r-18u37iz&quot;]/a[6]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-le9fof&quot;]/div[@class=&quot;css-76zvg2 r-jwli3a r-ubezar r-16dba41 r-1pzd9i8&quot;]</value>
+      <webElementGuid>7ddc4706-a52c-46da-a353-a223fb2f1b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div[2]/div/div/div[2]/a[6]/div/div</value>
+      <webElementGuid>ca7da003-2edd-415b-aab3-1b43b8e85d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taxi'])[2]/following::div[2]</value>
+      <webElementGuid>b5a8c506-c643-4627-8e73-7d0ba249d2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SpiceScreen'])[1]/following::div[4]</value>
+      <webElementGuid>dbaf037b-145e-4615-846b-da6f0fad20b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SpiceHolidays'])[1]/preceding::div[1]</value>
+      <webElementGuid>80fa6f84-9f0e-4944-a7b5-8dff11208675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charter'])[1]/preceding::div[3]</value>
+      <webElementGuid>759e74a3-8a7d-48d5-a0f2-7bf5565dd0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cargo']/parent::*</value>
+      <webElementGuid>b81a92b9-5fb9-482f-a86f-696cd8309e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]/div/div</value>
+      <webElementGuid>a28a5a5d-1f65-4930-b64a-1b136e174e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cargo' or . = 'Cargo')]</value>
+      <webElementGuid>91cff3db-7c4c-4f01-9340-9b6606784b0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

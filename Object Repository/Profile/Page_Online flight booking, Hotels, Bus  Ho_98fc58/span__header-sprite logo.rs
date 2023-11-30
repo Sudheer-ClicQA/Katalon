@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__header-sprite logo</name>
+   <tag></tag>
+   <elementGuidId>9deaaa0c-b8fc-4938-a3b9-9d58e9286dbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.header-sprite.logo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1eabf4ec-05aa-42f9-9fbb-d539c767347c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-sprite logo</value>
+      <webElementGuid>32288532-1266-4a96-82bf-266611b936c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-xayxd-0 fkdZEP&quot;]/div[1]/header[@class=&quot;happy-gi-header gi-special-theme-left header-sticky-nope&quot;]/a[@class=&quot;gi-header-logo__home&quot;]/span[@class=&quot;header-sprite logo&quot;]</value>
+      <webElementGuid>002fb995-7863-409c-89b5-1b05354b214d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/a/span</value>
+      <webElementGuid>20169598-a7db-429e-a8c9-389abc6c81a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>c0012928-ef8d-49a1-b2d2-3c2e6fd17e54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

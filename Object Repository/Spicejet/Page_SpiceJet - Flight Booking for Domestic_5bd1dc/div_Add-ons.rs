@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add-ons</name>
+   <tag></tag>
+   <elementGuidId>81e8fc25-3f7b-4f2d-a07c-c77c2e3e5e60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-1loqt21.r-18u37iz.r-le9fof.r-1otgn73 > div.css-76zvg2.r-jwli3a.r-ubezar.r-16dba41.r-1pzd9i8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div[2]/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2758f660-8a13-4409-a685-ae1dd27eef05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-76zvg2 r-jwli3a r-ubezar r-16dba41 r-1pzd9i8</value>
+      <webElementGuid>34611461-13ba-4869-997f-d722942c5c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>584463df-1c6e-43fe-8d1b-b85f6cce8152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add-ons</value>
+      <webElementGuid>afb058f2-a1b0-432e-8374-20dc0d04f20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1jgb5lz r-r0h9e2 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-184aecr r-18u37iz r-1777fci r-1w50u8q r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1kihuf0 r-18u37iz r-1wtj0ep r-dwc677 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-kgf08f r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[1]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-le9fof r-1otgn73&quot;]/div[@class=&quot;css-76zvg2 r-jwli3a r-ubezar r-16dba41 r-1pzd9i8&quot;]</value>
+      <webElementGuid>b666be0b-291b-40a8-a860-b93473d2538f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>09d06cfb-c1f2-4b4c-973a-a278cade4fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels'])[1]/following::div[4]</value>
+      <webElementGuid>cf068e46-0eff-4191-8d19-e1fceef35253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SpiceMax'])[1]/preceding::div[3]</value>
+      <webElementGuid>1d63b8c9-8557-4e7e-9ec4-26922eab676b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SpiceCafé'])[1]/preceding::div[5]</value>
+      <webElementGuid>62eb6417-9ba7-4e62-b038-94dd5134b2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add-ons']/parent::*</value>
+      <webElementGuid>6e96b8d5-b093-4908-8399-0f84dd145383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>8dbfe32b-9e7b-49ad-b6b2-4bada04c1c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add-ons' or . = 'Add-ons')]</value>
+      <webElementGuid>66f90cf4-5917-4866-a219-37c9a09847a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

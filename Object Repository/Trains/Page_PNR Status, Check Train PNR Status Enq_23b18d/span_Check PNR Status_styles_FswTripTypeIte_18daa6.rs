@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Check PNR Status_styles_FswTripTypeIte_18daa6</name>
+   <tag></tag>
+   <elementGuidId>5d1f6b48-5522-4a17-9aec-7883b667e640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[3]/div[2]/div/ul/li[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14a43bec-964c-4101-a8e8-cddf18b3964a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_FswTripTypeItemRadio__Zy5tX </value>
+      <webElementGuid>02c70856-ad71-4015-ad20-862721ad22b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;home_homePge__bodyWrapperOuter__TQU2_&quot;]/div[@class=&quot;home_homePge__bodyWrapper__4MUbR&quot;]/div[@class=&quot;home_homePge__srchWdgtWrp__8fZBh&quot;]/div[@class=&quot;styles_FswContainer__CFh9B&quot;]/ul[@class=&quot;styles_TripTypeCont__NdHOs&quot;]/li[@class=&quot;styles_FswTripTypeItem__aPaXl&quot;]/span[@class=&quot;styles_FswTripTypeItemRadio__Zy5tX&quot;]</value>
+      <webElementGuid>c6438a84-7c9b-4fe5-9b4f-13c77de9502f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[3]/div[2]/div/ul/li[3]/span</value>
+      <webElementGuid>8679ec20-d239-4add-8511-477fb2da4411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>99fddd4f-6699-4b9f-929b-928a5926b88b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

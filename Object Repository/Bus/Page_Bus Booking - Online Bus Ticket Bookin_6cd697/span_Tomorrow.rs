@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tomorrow</name>
+   <tag></tag>
+   <elementGuidId>2fda364e-3f78-4703-baa4-547fd399e411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchWidgetstyles__DateTabs-sc-1mr4hwz-4.gKiMdw > span:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/section/section/div[3]/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68c6ad38-8f8c-466a-898e-8f7da0ed3bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tomorrow</value>
+      <webElementGuid>576d82e4-42c7-4c1f-8c75-9fefbe453334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;HomePagestyles__HomePageWrapper-sc-1tll6im-0 gWuvFD&quot;]/section[@class=&quot;HomePagestyles__PageContentWrapper-sc-1tll6im-3 jdcZkN&quot;]/section[@class=&quot;HomePagestyles__SearchBlock-sc-1tll6im-5 iSjmmZ&quot;]/section[@class=&quot;SearchWidgetstyles__SearchWidgetWrap-sc-1mr4hwz-0 QkrmG&quot;]/div[@class=&quot;SearchWidgetstyles__CalendarBlock-sc-1mr4hwz-2 jOIhgD&quot;]/div[@class=&quot;SearchWidgetstyles__DateWrapper-sc-1mr4hwz-3 cuTZWV&quot;]/div[@class=&quot;SearchWidgetstyles__DateTabs-sc-1mr4hwz-4 gKiMdw&quot;]/span[2]</value>
+      <webElementGuid>ec24adbe-b538-4672-8cf5-5a1f2ec0725d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/section/section/div[3]/div/div/span[2]</value>
+      <webElementGuid>3f7d87c0-a07b-4509-968c-651f383b5177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel Date'])[1]/following::span[2]</value>
+      <webElementGuid>9f5ec4f3-4cb1-47ef-90f5-8f54b0d0c4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Distancing'])[1]/preceding::span[1]</value>
+      <webElementGuid>a023cb34-a301-4be2-aabd-ee656842f660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introducing social distancing in select buses.'])[1]/preceding::span[2]</value>
+      <webElementGuid>d0c4a805-1094-498a-9331-a39dd4a22d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tomorrow']/parent::*</value>
+      <webElementGuid>5f17e359-4905-41f3-bfba-2d9001918f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span[2]</value>
+      <webElementGuid>e31047d6-f8ab-406e-aa38-8ff00b01807b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tomorrow' or . = 'Tomorrow')]</value>
+      <webElementGuid>5dc0b032-3600-4462-b7ab-f8505694c451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

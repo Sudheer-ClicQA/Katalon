@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_flight status</name>
+   <tag></tag>
+   <elementGuidId>5f0b9076-e7b2-4d4b-8bb7-32fb5f2bcfd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-184aecr.r-1loqt21.r-18u37iz.r-779j7e.r-1f1sjgu.r-1otgn73</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div[3]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>562267b0-e207-48bb-80b2-f52c4c924446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-184aecr r-1loqt21 r-18u37iz r-779j7e r-1f1sjgu r-1otgn73</value>
+      <webElementGuid>0fd43aa1-497d-43a1-bca3-c623ccf9561a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focusable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9d38b2cf-88e2-4c00-82cd-3176ed52378a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>25ec4576-b322-4cb2-a283-c1d597b35afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>flight status-horizontal-nav-tabs</value>
+      <webElementGuid>1b0f8532-ccef-4acd-a852-168ba160d158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>flight status</value>
+      <webElementGuid>5de6974e-7f49-43bb-ac8d-bab579f50f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1jgb5lz r-r0h9e2 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-z2wwpe r-vgw6uq r-oswwj1 r-1rngwi6 r-156q2ks r-11ict49 r-8uuktl r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1d09ksm r-qklmqi r-1lz4bg0 r-1phboty r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-184aecr r-1loqt21 r-18u37iz r-779j7e r-1f1sjgu r-1otgn73&quot;]</value>
+      <webElementGuid>dfd24f82-c758-44cb-ad50-8e4069c5cb18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div[3]/div/div[3]</value>
+      <webElementGuid>ebfc487d-c1c8-4278-b2a9-aac821aadd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check-in'])[1]/following::div[1]</value>
+      <webElementGuid>07cbc391-91d3-420f-b20a-1544a8a03450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights'])[1]/following::div[4]</value>
+      <webElementGuid>f8819aea-35f8-481f-aa53-e02d39b62c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manage booking'])[1]/preceding::div[4]</value>
+      <webElementGuid>4c63655e-d3f8-4b28-9cf5-1e31827dd463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div/div[3]</value>
+      <webElementGuid>07f0a777-6822-4e17-8290-a51ce03fb785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'flight status' or . = 'flight status')]</value>
+      <webElementGuid>43974b77-08c5-41cd-8ee7-3a2bdb25c5ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
